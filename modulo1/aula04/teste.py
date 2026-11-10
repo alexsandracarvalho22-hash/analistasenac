@@ -1,6 +1,6 @@
 # (and) só é verdadeiro quando TUDO é verdeiro, caso ao contrario é falso!!!
 
-# contexto
+# contexto (uso do operador AND)
 
 #'''
 #para q eu possa dirigir, eu preciso ter:
@@ -23,7 +23,7 @@
 
 
 
-## CONTEXTO 2:
+## CONTEXTO 2: (uso do operador OR)
 
 '''
 para eu me deslocar até o senac de nova iguaçu:
