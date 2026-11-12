@@ -23,8 +23,8 @@
 
 ## LAÇO WHILE
 
-teste = True
+#teste = True
 
-while teste:
-    print ("pipocaa")
+#while teste:
+    #print ("pipocaa")
 
